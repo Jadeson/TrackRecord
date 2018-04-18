@@ -1,0 +1,1 @@
+RawBb,Ticker,Weight%,Size,Position,On Day,Zone,From,To
