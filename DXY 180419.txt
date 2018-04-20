@@ -1,0 +1,2 @@
+RawBb,Ticker,Weight%,Size,Position,On Day,Zone,From,To
+USDEUR Curncy,USD.EUR,-20,-0.2,-0.2,4/20/2018,UK,15:30,16:30
