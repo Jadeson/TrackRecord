@@ -1,0 +1,5 @@
+RawBb,Ticker,Weight%,Size,Position,On Day,Zone,From,To
+ES1 Index,ESM8,20,0,0.2,5/8/2018,US,15:0,16:0
+CL1 Comdty,CLM8,18,0,0.18,5/8/2018,US,13:30,14:30
+GC1 Comdty,GCM8,30,0,0.3,5/8/2018,US,13:0,14:0
+NG1 Comdty,NG18,1,0,0.01,5/8/2018,US,13:30,14:30
